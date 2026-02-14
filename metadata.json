@@ -1,0 +1,7 @@
+{
+  "name": "FaceGuard AI",
+  "description": "Intelligent attendance management system using Gemini Vision for real-time face recognition and automated logging.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
